@@ -1,11 +1,13 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=먹고보자&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=20&section=header&text=먹고보자&fontSize=90" />
 
 
 ### ✈️ 소개
 먹고보자(EAT&SEE)는 데이트 장소를 고민하는 이용자를 위한 오픈마켓형 사이트 이며
-음식점과 볼거리(관광지,놀이공원등)을 판매자가 등록하면 지도 API를 통해 유저가 확인하고 예약할수 있는 사이트 입니다.
-또한 단순히 실제 사용자의 리뷰뿐 아니라 커뮤니티 기능을 더 추가하여 해당 사이트에 등록되어 있지 않은 곳 이라도 유저끼리 정보를 공유할수 있습니다.
+음식점과 볼거리(관광지,놀이공원등)을 판매자가 등록하면 지도 API를 통해 
+유저가 확인하고 예약할수 있는 사이트 입니다.
+또한 단순히 실제 사용자의 리뷰뿐 아니라 커뮤니티 기능을 더 추가하여
+해당 사이트에 등록되어 있지 않은 곳 이라도 유저끼리 정보를 공유할수 있습니다.
 반대로 판매자들도 자신들의 노하우나 팁 등을 공유할수 있는 커뮤니티 기능을 추가한 사이트 입니다.
 
     
