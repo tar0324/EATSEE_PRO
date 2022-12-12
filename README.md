@@ -30,4 +30,4 @@
 - DB : mysql , mariaDB , Mybatis 
 
 
-### 📌 주요 기능 - [상세보기](https://github.com/tar0324/ec_master/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5)
+### 📌 주요 기능 - [상세보기](https://github.com/tar0324/EATSEE_PRO/wiki)
