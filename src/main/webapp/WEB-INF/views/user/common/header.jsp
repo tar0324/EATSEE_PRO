@@ -206,11 +206,11 @@ request.setCharacterEncoding("utf-8");
 								class="nav-link nav-hover"> <span class="bi pe-none me-2"
 									width="16" height="16">📣</span> Event
 							</a></li>
-							<li><a href="${contextPath}/mypage/uLike.do"
+							<li><a href="${contextPath }/mypage.do"
 								class="nav-link nav-hover"> <span class="bi pe-none me-2"
 									width="16" height="16">❤</span> 찜
 							</a></li>
-							<li><a href="${contextPath}/mypage/uBook.do" class="nav-link nav-hover"> <span
+							<li><a href="${contextPath }/mypage.do" class="nav-link nav-hover"> <span
 									class="bi pe-none me-2" width="16" height="16">📅</span> 예약조회
 							</a></li>
 						</c:if>
@@ -242,7 +242,7 @@ request.setCharacterEncoding("utf-8");
 								class="nav-link nav-hover"> <span class="bi pe-none me-2"
 									width="16" height="16">📣</span> Event
 							</a></li>
-							<li><a href="${contextPath }/user/loginForm.do" class="nav-link nav-hover"> <span
+							<li><a href="${contextPath}/user/loginForm.do" class="nav-link nav-hover"> <span
 									class="bi pe-none me-2" width="16" height="16">📅</span> 예약조회
 							</a></li>
 						</c:if>
@@ -275,11 +275,11 @@ request.setCharacterEncoding("utf-8");
 								class="nav-link nav-hover"> <span class="bi pe-none me-2"
 									width="16" height="16">📣</span> Event
 							</a></li>
-							<li><a href="${contextPath}/mypage/uLike.do"
+							<li><a href="${contextPath }/mypage.do"
 								class="nav-link nav-hover"> <span class="bi pe-none me-2"
 									width="16" height="16">❤</span> 찜
 							</a></li>
-							<li><a href="${contextPath}/mypage/uBook.do" class="nav-link nav-hover"> <span
+							<li><a href="${contextPath }/mypage.do" class="nav-link nav-hover"> <span
 									class="bi pe-none me-2" width="16" height="16">📅</span> 예약조회
 							</a></li>
 
