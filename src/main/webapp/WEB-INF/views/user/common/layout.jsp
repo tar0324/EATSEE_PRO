@@ -17,10 +17,10 @@
 	crossorigin="anonymous"></script>
 <style type="text/css">
 
-#content {
+/* #content {
 	background: linear-gradient(#CBE8EA 30%, #F3E2A9 30% );
 	/* background: linear-gradient( to bottom, yellow, #FD9F28 ); */
-}
+} */
 #header {
 	width:100%;
 	height: 70px;
