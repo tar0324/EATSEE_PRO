@@ -27,10 +27,13 @@
 - 양성웅  
 
 ### 📌 기술
-- IDE : eclipse
+- Development Tool : Eclipse, Maven, STS(Spring Tool  Suite), HeidiSQL
+- Framework : SPRING, Mybatis 
+- Programming Language :  Java, HTML, CSS, JavaScript
+- Library : BootStrap , jQuery, JSTL
+- API : KAKAO, 다음
 - front-end : HTML, CSS, JavaScript, Ajax, BootStrap , jQuery
-- back-end : java 15 , spring Tool 3 , maven 
-- DB : mysql , mariaDB , Mybatis 
+- DBMS : mysql , mariaDB
 
 
 ### 📌 주요 기능 - [상세보기](https://github.com/tar0324/EATSEE_PRO/wiki)
