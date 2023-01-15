@@ -32,7 +32,6 @@
 - Programming Language :  Java, HTML, CSS, JavaScript
 - Library : BootStrap , jQuery, JSTL
 - API : KAKAO, 다음
-- front-end : HTML, CSS, JavaScript, Ajax, BootStrap , jQuery
 - DBMS : mysql , mariaDB
 
 
