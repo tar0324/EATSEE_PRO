@@ -27,7 +27,7 @@
 - 양성웅  
 
 ### 📌 기술
-- Development Tool : Eclipse, Maven, STS(Spring Tool  Suite), HeidiSQL
+- Development Tool : Eclipse, STS(Spring Tool  Suite), HeidiSQL(db tool),  Maven(build tool)
 - Framework : SPRING, Mybatis 
 - Programming Language :  Java, HTML, CSS, JavaScript
 - Library : BootStrap , jQuery, JSTL
